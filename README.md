@@ -28,7 +28,7 @@ Implement "B. Boehmer, T. Rees, Modified Damerau-Levenshtein Distance", if requi
 
 ## Contributing
 
-1. Fork it ( https://github.com/suxxes/DamerauLevenshtein/fork )
+1. Fork it (https://github.com/suxxes/DamerauLevenshtein/fork)
 2. Create your feature branch (git checkout -b my-new-feature)
 3. Commit your changes (git commit -am 'Add some feature')
 4. Push to the branch (git push origin my-new-feature)
@@ -36,4 +36,4 @@ Implement "B. Boehmer, T. Rees, Modified Damerau-Levenshtein Distance", if requi
 
 ## Contributors
 
-- suxxes(https://github.com/suxxes) Fedor Suprychev - creator, maintainer
+- suxxes (https://github.com/suxxes) Fedor Suprychev - creator, maintainer
