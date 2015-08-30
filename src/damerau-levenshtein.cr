@@ -1,4 +1,4 @@
-require "./DamerauLevenshtein/*"
+require "./damerau-levenshtein/*"
 
 module DamerauLevenshtein
   def self.distance(s1 : String, s2 : String)
@@ -46,3 +46,5 @@ module DamerauLevenshtein
     diff[{s1_length - 1, s2_length - 1}]
   end
 end
+
+puts DamerauLevenshtein.distance("12345", "13245")

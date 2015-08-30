@@ -8,14 +8,14 @@ Add it to `Projectfile`
 
 ```crystal
 deps do
-  github "suxxes/DamerauLevenshtein"
+  github "suxxes/damerau-levenshtein"
 end
 ```
 
 ## Usage
 
 ```crystal
-require "DamerauLevenshtein"
+require "damerau-levenshtein"
 ```
 
 ```crystal
@@ -28,7 +28,7 @@ Implement "B. Boehmer, T. Rees, Modified Damerau-Levenshtein Distance", if requi
 
 ## Contributing
 
-1. Fork it (https://github.com/suxxes/DamerauLevenshtein/fork)
+1. Fork it (https://github.com/suxxes/damerau-levenshtein/fork)
 2. Create your feature branch (git checkout -b my-new-feature)
 3. Commit your changes (git commit -am 'Add some feature')
 4. Push to the branch (git push origin my-new-feature)

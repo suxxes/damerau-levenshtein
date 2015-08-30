@@ -1,2 +1,2 @@
 require "spec"
-require "../src/DamerauLevenshtein"
+require "../src/damerau-levenshtein"
