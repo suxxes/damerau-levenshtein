@@ -46,5 +46,3 @@ module DamerauLevenshtein
     diff[{s1_length - 1, s2_length - 1}]
   end
 end
-
-puts DamerauLevenshtein.distance("12345", "13245")
